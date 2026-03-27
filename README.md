@@ -90,9 +90,3 @@
 👉 [프로젝트 갤러리 보기](https://www.notion.so/2b6dae806ad98089a481da44b9a604a5?pvs=21)
 
 ---
-
-## 📫 Contact
-
-- ✉️ Email: eieemdmd@gmail.com  
-- 🐙 GitHub: https://github.com/eeieemdmd  
-- 🌐 Portfolio: https://pf.gbsw.hs.kr/portfolioInner?idx=338
