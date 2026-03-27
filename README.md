@@ -1,64 +1,39 @@
-# 👋 Hi, I'm 현원
-
-## 🎮 Game Client Developer
-**플레이 경험을 구조적으로 설계하는 게임 클라이언트 개발자입니다.**
-
-단순한 기능 구현을 넘어, 그래픽스와 상호작용 시스템을 결합하여  
-**플레이어 경험 자체를 설계하는 개발**에 집중해왔습니다.
-
-공포 게임 프로젝트에서는  
-**URP · Shader Graph · Post Processing**을 활용하여  
-조명, 노이즈, 카메라 연출을 직접 구성하고  
-**시각적 피드백을 게임 플레이 요소로 통합**했습니다.
+# 👋 게임 클라이언트 개발자 지망생 현원
+>플레이 경험을 구조적으로 설계하는 게임 클라이언트 개발자입니다. <br>
+>다양한 게임 개발을 통한 성장을 추구합니다.
 
 ---
-
-## 🧠 Problem Solving
-
-**제약 조건 속에서도 해결 방식을 설계하는 개발자입니다.**
-
-리소스가 제한된 환경에서도 직접 제작을 병행하며  
-**도구 의존이 아닌 문제 해결 중심의 개발 방식**을 지향합니다.
-
-또한  
-- 렌더링 파이프라인 이슈  
-- 에셋 로딩 문제  
-- 빌드 과정 오류  
-
-등을 해결하며  
-**엔진 레벨까지 확장된 문제 해결 경험**을 쌓았습니다.
-
----
-
 ## 🚀 About Me
 
-- 사용자 경험(UX)을 중심으로 설계된 게임 개발 지향
-- 플레이 중 발생하는 문제를 분석하고 개선
-- 접근성과 직관성을 고려한 시스템 설계
-- 핵심 재미를 만드는 메커니즘 중심 개발
-- 지속적인 학습과 기술 탐구
+- 🎮 사용자 경험(UX)을 중심으로 설계된 게임 개발 지향
+- ⚙️ 플레이 중 발생하는 문제를 분석하고 개선
+- 📖 접근성과 직관성을 고려한 시스템 설계
+- 🎲 핵심 재미를 만드는 메커니즘 중심 개발
+- 📎 지속적인 학습과 기술 탐구
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🎮 Engine
-- Unity
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 
 ### 💻 Language
-- C / C++ / C#
-- Python
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ### 🎨 Graphics
-- Blender
-- Photoshop
-- Illustrator
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
 
 ---
 
 ## 🏆 Awards
 
-- 2024 교내 해커톤 → **최우수상**
+- 2024 교내 해커톤 →  **최우수상**
 - 지방 기능 경기 대회 → **장려상**
 - 2025 1학기 캡스톤 → **은상**
 - 2025 2학기 캡스톤 → **은상**
